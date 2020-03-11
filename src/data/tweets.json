@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Albin",
+        "message": "Hello Adam!",
+        "likes": "123 Likes!"
+    },
+    {
+        "name": "Adam",
+        "message": "Hello Albin how are you?",
+        "likes": "1111 likes!"
+    },
+    {
+        "name": "Jonathan",
+        "message": "How are everyone today?",
+        "likes": "1231 likes!"
+    },
+    {
+        "name": "Maria",
+        "message": "I am a master chef",
+        "likes": "1234 likes!"
+    },
+    {
+        "name": "Pelle",
+        "message": " i am a mecanicker!",
+        "likes": "2133 likes!"
+    }
+]
